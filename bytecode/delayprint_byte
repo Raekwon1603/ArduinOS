@@ -1,0 +1,5 @@
+"Hello world!" PRINTLN
+MILLIS 5000 PLUS
+DELAYUNTIL 
+"Bye world!" PRINTLN
+STOP

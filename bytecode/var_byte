@@ -1,0 +1,13 @@
+"hello" SET str
+'z' SET ch
+789 SET num
+3.14159 SET dec
+"passed" SET str
+GET ch INCREMENT SET ch
+GET num DECREMENT SET num
+GET dec INCREMENT SET dec
+GET str PRINTLN
+GET ch PRINTLN
+GET num PRINTLN
+GET dec PRINTLN
+STOP
